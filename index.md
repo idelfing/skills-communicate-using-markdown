@@ -8,3 +8,7 @@ I've added the H1 to this file and this text
 for i in range(5):
   print(*)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
